@@ -1,6 +1,6 @@
 CSC501 Fall 2018
 PA 1: Process Scheduling
-Due: October 1 2018, 4:00 AM
+
 1. Objective
 The objective of this assignment is to get familiar with the concepts of process management, including process priorities, scheduling, and context switching.
 
